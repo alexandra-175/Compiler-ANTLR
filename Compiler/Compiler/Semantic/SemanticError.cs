@@ -6,7 +6,14 @@ using System.Threading.Tasks;
 
 namespace Compiler.Semantic
 {
-    internal class SemanticError
+    public class SemanticError
     {
+        public int Line;
+        public string Message;
+
+        public override string ToString()
+        {
+            return $"Eroare semantică la linia {Line}: {Message}";
+        }
     }
 }

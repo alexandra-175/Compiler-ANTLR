@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace Compiler.Models
 {
-    internal class VariableInfo
+    public class VariableInfo
     {
+        public string Name;
+        public string Type;
+        public string Value;
+        public int Line;
+        public bool IsConst;
     }
 }
+

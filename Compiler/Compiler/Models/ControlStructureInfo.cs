@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace Compiler.Models
 {
-    internal class ControlStructureInfo
+    public class ControlStructureInfo
     {
+        public string Type; 
+        public int Line;
     }
 }

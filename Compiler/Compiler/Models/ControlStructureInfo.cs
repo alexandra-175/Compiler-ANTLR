@@ -8,7 +8,7 @@ namespace Compiler.Models
 {
     public class ControlStructureInfo
     {
-        public string Type; 
-        public int Line;
+        public string Type { get; set; } = "";
+        public int Line { get; set; }
     }
 }

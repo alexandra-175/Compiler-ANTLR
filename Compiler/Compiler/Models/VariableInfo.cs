@@ -8,11 +8,11 @@ namespace Compiler.Models
 {
     public class VariableInfo
     {
-        public string Name;
-        public string Type;
-        public string Value;
-        public int Line;
-        public bool IsConst;
+        public string Name { get; set; } = "";
+        public string Type { get; set; } = "";
+        public string Value { get; set; } = "";
+        public int Line { get; set; }
+        public bool IsConst { get; set; }
     }
 }
 

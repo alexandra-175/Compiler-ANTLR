@@ -1,0 +1,6 @@
+Functie: proceseaza_scor [void] - Linia 8
+  Locale: bonus
+  Control: if
+Functie: main [void] - Linia 16
+  Locale: i, status
+  Control: for, while, if

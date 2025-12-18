@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nalex\\Desktop\\anul 2\\LFC\\tema2lfc\\Compiler-ANTLR\\Compiler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{361A0F60-A84E-4EE4-BE53-C9A983F9CCA2}|Compiler\\Compiler.csproj|c:\\users\\nalex\\desktop\\anul 2\\lfc\\tema2lfc\\compiler-antlr\\compiler\\compiler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361A0F60-A84E-4EE4-BE53-C9A983F9CCA2}|Compiler\\Compiler.csproj|solutionrelative:compiler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361A0F60-A84E-4EE4-BE53-C9A983F9CCA2}|Compiler\\Compiler.csproj|c:\\users\\nalex\\desktop\\anul 2\\lfc\\tema2lfc\\compiler-antlr\\compiler\\compiler\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{361A0F60-A84E-4EE4-BE53-C9A983F9CCA2}|Compiler\\Compiler.csproj|solutionrelative:compiler\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361A0F60-A84E-4EE4-BE53-C9A983F9CCA2}|Compiler\\Compiler.csproj|c:\\users\\nalex\\desktop\\anul 2\\lfc\\tema2lfc\\compiler-antlr\\compiler\\compiler\\minilanguage.g4||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{361A0F60-A84E-4EE4-BE53-C9A983F9CCA2}|Compiler\\Compiler.csproj|solutionrelative:compiler\\minilanguage.g4||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361A0F60-A84E-4EE4-BE53-C9A983F9CCA2}|Compiler\\Compiler.csproj|c:\\users\\nalex\\desktop\\anul 2\\lfc\\tema2lfc\\compiler-antlr\\compiler\\compiler\\semantic\\semanticvisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361A0F60-A84E-4EE4-BE53-C9A983F9CCA2}|Compiler\\Compiler.csproj|solutionrelative:compiler\\semantic\\semanticvisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361A0F60-A84E-4EE4-BE53-C9A983F9CCA2}|Compiler\\Compiler.csproj|c:\\users\\nalex\\desktop\\anul 2\\lfc\\tema2lfc\\compiler-antlr\\compiler\\compiler\\semantic\\symboltable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361A0F60-A84E-4EE4-BE53-C9A983F9CCA2}|Compiler\\Compiler.csproj|solutionrelative:compiler\\semantic\\symboltable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361A0F60-A84E-4EE4-BE53-C9A983F9CCA2}|Compiler\\Compiler.csproj|c:\\users\\nalex\\desktop\\anul 2\\lfc\\tema2lfc\\compiler-antlr\\compiler\\compiler\\semantic\\semanticerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361A0F60-A84E-4EE4-BE53-C9A983F9CCA2}|Compiler\\Compiler.csproj|solutionrelative:compiler\\semantic\\semanticerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361A0F60-A84E-4EE4-BE53-C9A983F9CCA2}|Compiler\\Compiler.csproj|c:\\users\\nalex\\desktop\\anul 2\\lfc\\tema2lfc\\compiler-antlr\\compiler\\compiler\\models\\functioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361A0F60-A84E-4EE4-BE53-C9A983F9CCA2}|Compiler\\Compiler.csproj|solutionrelative:compiler\\models\\functioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361A0F60-A84E-4EE4-BE53-C9A983F9CCA2}|Compiler\\Compiler.csproj|c:\\users\\nalex\\desktop\\anul 2\\lfc\\tema2lfc\\compiler-antlr\\compiler\\compiler\\models\\variableinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361A0F60-A84E-4EE4-BE53-C9A983F9CCA2}|Compiler\\Compiler.csproj|solutionrelative:compiler\\models\\variableinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361A0F60-A84E-4EE4-BE53-C9A983F9CCA2}|Compiler\\Compiler.csproj|c:\\users\\nalex\\desktop\\anul 2\\lfc\\tema2lfc\\compiler-antlr\\compiler\\compiler\\models\\controlstructureinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361A0F60-A84E-4EE4-BE53-C9A983F9CCA2}|Compiler\\Compiler.csproj|solutionrelative:compiler\\models\\controlstructureinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{361A0F60-A84E-4EE4-BE53-C9A983F9CCA2}|Compiler\\Compiler.csproj|c:\\users\\nalex\\desktop\\anul 2\\lfc\\tema2lfc\\compiler-antlr\\compiler\\compiler\\semantic\\semanticcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{361A0F60-A84E-4EE4-BE53-C9A983F9CCA2}|Compiler\\Compiler.csproj|solutionrelative:compiler\\semantic\\semanticcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "input.txt",
+              "DocumentMoniker": "C:\\Users\\nalex\\Desktop\\anul 2\\LFC\\tema2lfc\\Compiler-ANTLR\\Compiler\\Compiler\\input.txt",
+              "RelativeDocumentMoniker": "Compiler\\input.txt",
+              "ToolTip": "C:\\Users\\nalex\\Desktop\\anul 2\\LFC\\tema2lfc\\Compiler-ANTLR\\Compiler\\Compiler\\input.txt",
+              "RelativeToolTip": "Compiler\\input.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-12-18T13:12:28.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MiniLanguage.g4",
+              "DocumentMoniker": "C:\\Users\\nalex\\Desktop\\anul 2\\LFC\\tema2lfc\\Compiler-ANTLR\\Compiler\\Compiler\\MiniLanguage.g4",
+              "RelativeDocumentMoniker": "Compiler\\MiniLanguage.g4",
+              "ToolTip": "C:\\Users\\nalex\\Desktop\\anul 2\\LFC\\tema2lfc\\Compiler-ANTLR\\Compiler\\Compiler\\MiniLanguage.g4",
+              "RelativeToolTip": "Compiler\\MiniLanguage.g4",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-18T12:24:21.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nalex\\Desktop\\anul 2\\LFC\\tema2lfc\\Compiler-ANTLR\\Compiler\\Compiler\\Program.cs",
+              "RelativeDocumentMoniker": "Compiler\\Program.cs",
+              "ToolTip": "C:\\Users\\nalex\\Desktop\\anul 2\\LFC\\tema2lfc\\Compiler-ANTLR\\Compiler\\Compiler\\Program.cs",
+              "RelativeToolTip": "Compiler\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T11:37:39.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SemanticVisitor.cs",
+              "DocumentMoniker": "C:\\Users\\nalex\\Desktop\\anul 2\\LFC\\tema2lfc\\Compiler-ANTLR\\Compiler\\Compiler\\Semantic\\SemanticVisitor.cs",
+              "RelativeDocumentMoniker": "Compiler\\Semantic\\SemanticVisitor.cs",
+              "ToolTip": "C:\\Users\\nalex\\Desktop\\anul 2\\LFC\\tema2lfc\\Compiler-ANTLR\\Compiler\\Compiler\\Semantic\\SemanticVisitor.cs",
+              "RelativeToolTip": "Compiler\\Semantic\\SemanticVisitor.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwEwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T12:19:13.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SymbolTable.cs",
+              "DocumentMoniker": "C:\\Users\\nalex\\Desktop\\anul 2\\LFC\\tema2lfc\\Compiler-ANTLR\\Compiler\\Compiler\\Semantic\\SymbolTable.cs",
+              "RelativeDocumentMoniker": "Compiler\\Semantic\\SymbolTable.cs",
+              "ToolTip": "C:\\Users\\nalex\\Desktop\\anul 2\\LFC\\tema2lfc\\Compiler-ANTLR\\Compiler\\Compiler\\Semantic\\SymbolTable.cs",
+              "RelativeToolTip": "Compiler\\Semantic\\SymbolTable.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T12:13:26.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SemanticError.cs",
+              "DocumentMoniker": "C:\\Users\\nalex\\Desktop\\anul 2\\LFC\\tema2lfc\\Compiler-ANTLR\\Compiler\\Compiler\\Semantic\\SemanticError.cs",
+              "RelativeDocumentMoniker": "Compiler\\Semantic\\SemanticError.cs",
+              "ToolTip": "C:\\Users\\nalex\\Desktop\\anul 2\\LFC\\tema2lfc\\Compiler-ANTLR\\Compiler\\Compiler\\Semantic\\SemanticError.cs",
+              "RelativeToolTip": "Compiler\\Semantic\\SemanticError.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T11:39:35.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FunctionInfo.cs",
+              "DocumentMoniker": "C:\\Users\\nalex\\Desktop\\anul 2\\LFC\\tema2lfc\\Compiler-ANTLR\\Compiler\\Compiler\\Models\\FunctionInfo.cs",
+              "RelativeDocumentMoniker": "Compiler\\Models\\FunctionInfo.cs",
+              "ToolTip": "C:\\Users\\nalex\\Desktop\\anul 2\\LFC\\tema2lfc\\Compiler-ANTLR\\Compiler\\Compiler\\Models\\FunctionInfo.cs",
+              "RelativeToolTip": "Compiler\\Models\\FunctionInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T11:37:47.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VariableInfo.cs",
+              "DocumentMoniker": "C:\\Users\\nalex\\Desktop\\anul 2\\LFC\\tema2lfc\\Compiler-ANTLR\\Compiler\\Compiler\\Models\\VariableInfo.cs",
+              "RelativeDocumentMoniker": "Compiler\\Models\\VariableInfo.cs",
+              "ToolTip": "C:\\Users\\nalex\\Desktop\\anul 2\\LFC\\tema2lfc\\Compiler-ANTLR\\Compiler\\Compiler\\Models\\VariableInfo.cs",
+              "RelativeToolTip": "Compiler\\Models\\VariableInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T11:37:50.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ControlStructureInfo.cs",
+              "DocumentMoniker": "C:\\Users\\nalex\\Desktop\\anul 2\\LFC\\tema2lfc\\Compiler-ANTLR\\Compiler\\Compiler\\Models\\ControlStructureInfo.cs",
+              "RelativeDocumentMoniker": "Compiler\\Models\\ControlStructureInfo.cs",
+              "ToolTip": "C:\\Users\\nalex\\Desktop\\anul 2\\LFC\\tema2lfc\\Compiler-ANTLR\\Compiler\\Compiler\\Models\\ControlStructureInfo.cs",
+              "RelativeToolTip": "Compiler\\Models\\ControlStructureInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T11:37:45.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SemanticContext.cs",
+              "DocumentMoniker": "C:\\Users\\nalex\\Desktop\\anul 2\\LFC\\tema2lfc\\Compiler-ANTLR\\Compiler\\Compiler\\Semantic\\SemanticContext.cs",
+              "RelativeDocumentMoniker": "Compiler\\Semantic\\SemanticContext.cs",
+              "ToolTip": "C:\\Users\\nalex\\Desktop\\anul 2\\LFC\\tema2lfc\\Compiler-ANTLR\\Compiler\\Compiler\\Semantic\\SemanticContext.cs",
+              "RelativeToolTip": "Compiler\\Semantic\\SemanticContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T11:39:33.41Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

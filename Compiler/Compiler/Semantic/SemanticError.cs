@@ -1,15 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Compiler.Semantic
+﻿namespace Compiler.Semantic
 {
     public class SemanticError
     {
-        public int Line;
-        public string Message;
+        public int Line { get; set; }
+        public string Message { get; set; } = "";
 
         public override string ToString()
         {

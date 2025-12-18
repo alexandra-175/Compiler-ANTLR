@@ -1,0 +1,6 @@
+C:/Users/nalex/Desktop/anul 2/LFC/tema2lfc/Compiler-ANTLR/Compiler/Compiler/obj/Debug/net9.0/MiniLanguageBaseListener.cs
+C:/Users/nalex/Desktop/anul 2/LFC/tema2lfc/Compiler-ANTLR/Compiler/Compiler/obj/Debug/net9.0/MiniLanguageBaseVisitor.cs
+C:/Users/nalex/Desktop/anul 2/LFC/tema2lfc/Compiler-ANTLR/Compiler/Compiler/obj/Debug/net9.0/MiniLanguageLexer.cs
+C:/Users/nalex/Desktop/anul 2/LFC/tema2lfc/Compiler-ANTLR/Compiler/Compiler/obj/Debug/net9.0/MiniLanguageListener.cs
+C:/Users/nalex/Desktop/anul 2/LFC/tema2lfc/Compiler-ANTLR/Compiler/Compiler/obj/Debug/net9.0/MiniLanguageParser.cs
+C:/Users/nalex/Desktop/anul 2/LFC/tema2lfc/Compiler-ANTLR/Compiler/Compiler/obj/Debug/net9.0/MiniLanguageVisitor.cs

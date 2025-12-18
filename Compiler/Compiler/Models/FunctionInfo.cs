@@ -1,22 +1,17 @@
-﻿using Compiler.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 
 namespace Compiler.Models
 {
     public class FunctionInfo
     {
-        public string Name;
-        public string ReturnType;
-        public bool IsMain;
-        public bool IsRecursive;
+        public string Name { get; set; } = "";
+        public string ReturnType { get; set; } = "";
+        public int Line { get; set; }
+        public bool IsMain { get; set; }
+        public bool IsRecursive { get; set; }
 
-        public List<VariableInfo> Parameters = new();
-        public List<VariableInfo> LocalVariables = new();
-        public List<ControlStructureInfo> ControlStructures = new();
+        public List<VariableInfo> Parameters { get; set; } = new();
+        public List<VariableInfo> LocalVariables { get; set; } = new();
+        public List<ControlStructureInfo> ControlStructures { get; set; } = new();
     }
 }
-

@@ -9,6 +9,7 @@ namespace Compiler.Models
         public int Line { get; set; }
         public bool IsMain { get; set; }
         public bool IsRecursive { get; set; }
+        public bool HasReturn { get; set; }
 
         public List<VariableInfo> Parameters { get; set; } = new();
         public List<VariableInfo> LocalVariables { get; set; } = new();

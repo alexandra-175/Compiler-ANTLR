@@ -1,38 +1,22 @@
-﻿// --- SECTIUNEA 1: Variabile Globale ---
-int scor_maxim = 1000;
-double pante_factor = 0.75;
-string titlu_joc = "Marea Aventura";
-const int ID_SESIUNE = 99;
+﻿int globalVar = 10;
 
-// --- SECTIUNEA 2: Functie cu parametri si variabile locale ---
-void proceseaza_scor(int puncte_noi) {
-    if (puncte_noi > 0) {
-        int bonus = 50;
-        scor_maxim = scor_maxim + puncte_noi + bonus;
-    }
+int suma(int a, int b) {
+    int result = a + b;
+    return result;
 }
 
-// --- SECTIUNEA 3: Functia principala cu structuri de control ---
-void main() {
-    int i = 0;
-    string status = "In desfasurare";
-    
-    // Structura repetitiva for
-    for (int j = 0; j < 5; j = j + 1) {
-        proceseaza_scor(100);
+int main() {
+    int x = 5;
+    int y = 7;
+
+    if (x < y) {
+        x++;
     }
 
-    // Structura repetitiva while
-    while (i < 10) {
-        if (i == 5) {
-            status = "Jumatate atinsa";
-        } else {
-            i = i + 1;
-        }
+    while (x < 20) {
+        x = x + 1;
     }
-    
-    // Eroare semantica intentionata (daca vrei sa o testezi):
-    // ID_SESIUNE = 100; // Ar trebui sa apara in erori.txt daca ai implementat verificarea const
-    
-    return;
+
+    suma(x, y);
+    return 0;
 }
